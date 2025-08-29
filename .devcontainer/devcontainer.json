@@ -11,7 +11,13 @@
 		"vscode": {
 			"extensions": [
 				"christian-kohler.npm-intellisense",
-				"GitHub.copilot"
+				"GitHub.copilot",
+				"ms-azuretools.vscode-containers",
+				"ms-python.autopep8",
+				"dbaeumer.vscode-eslint",
+				"ms-python.vscode-pylance",
+				"ms-python.python",
+				"ms-python.vscode-python-envs"
 			]
 		}
 	}
